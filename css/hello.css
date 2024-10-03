@@ -264,7 +264,7 @@ input[type="checkbox"] {
     display: flex;
     align-items: center;
     padding: 3px;
-    border: 1px solid #FF086B;
+    border: 1.3px solid #FF086B;
     border-radius: 10px;
     margin-top: 248px;
     background-color:  #FFEEF5;
@@ -358,7 +358,7 @@ input[type="checkbox"] {
     }
 
     .input-box {
-        margin-top: 264px;
+        margin-top: 250px;
     }
  }
  
